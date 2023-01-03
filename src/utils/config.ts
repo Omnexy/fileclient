@@ -1,0 +1,1 @@
+export const FILE_SERVER = 'http://192.168.0.102:3003';
